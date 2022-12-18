@@ -62,7 +62,7 @@ raiseSalaries(
 
 ---
 
-### `updateTasks`
+### `updateTasks`.
 
 This function should take as its arguments:
 
