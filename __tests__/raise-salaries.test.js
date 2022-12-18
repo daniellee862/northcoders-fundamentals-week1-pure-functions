@@ -1,4 +1,4 @@
-const raiseSalaries = require("../raise-salaries");
+const raiseSalaries = require("../katas/raise-salaries");
 
 //return empty array if passed empty array
 // return singular updated object

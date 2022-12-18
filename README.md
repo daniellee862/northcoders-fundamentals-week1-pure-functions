@@ -71,13 +71,13 @@ This function should take as its arguments:
 
 The function should return a new person object with a new tasks properties. The tasks property from the input object should not be mutated.
 
-```js
+```js{ name: "Anat", tasks: ["feed Schnitzel", "Go to pottery"] }
 updateTasks(
   { name: "Anat", tasks: ["feed Schnitzel", "Go to pottery"] },
   "read books",
   "tidy room"
 );
-/* should return 
+/* should return
 {
   name: 'Anat',
   tasks: ['feed Schnitzel', 'Go to pottery', 'read books', 'tidy room']

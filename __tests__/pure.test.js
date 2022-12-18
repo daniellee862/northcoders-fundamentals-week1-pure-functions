@@ -1,4 +1,4 @@
-const removeLastNumber = require("../pure");
+const removeLastNumber = require("../katas/pure");
 
 // This function should as its only argument take: an array of numbers
 // This function should return a new array of numbers with the last one removed
